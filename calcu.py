@@ -13,7 +13,7 @@ def calcu():
     info = '\033[93m[!]\033[0m'
     good = '\033[92m[+]\033[0m'
     #Title
-    print (red," ===>SIMPLE CALCU v1.0 by d-script-dev ;) <===")
+    print (red," ===>SIMPLE CALCU v1.0 by dscript-git ;) <===")
     #Choices
     print (yellow," ==> CHOICES FOR OPERATION:[ +, -, *, OR /] <==")
     num1 = float(input(' ENTER 1st NUMBER: '))
